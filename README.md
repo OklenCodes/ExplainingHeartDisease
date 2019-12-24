@@ -1,4 +1,4 @@
-# ExplainingHeartDisease
+# Explaining Heart Disease
 
 What Causes Heart Diseases (Explaining with ML)
 
